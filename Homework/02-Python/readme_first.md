@@ -1,4 +1,5 @@
 # Basic Breakdown
+### Note: Instructions for the required assignment are in the folder called "Instructions"
 
 There are two folders here: "Instructions" and "Extra Content". The "Instructions" directory contains two folders: "PyBank" and "PyPoll". The only requirement for this homework is to complete one of these assignments. You can do both if you'd like extra practice. The 2nd folder, "Extra Content", contains two assignments that are 100% optional: "PyBoss" and "PyParagraph". You are not required to complete either of these, but they do provide some good practice.
 
