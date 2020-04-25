@@ -19,6 +19,7 @@ Use Plotly.js to build interactive charts for your dashboard.
   ![PIE Chart](Images/pie_chart.png)
 
 * Create a Bubble Chart that uses data from your samples route (`/samples/<sample>`) to display each sample.
+* Link to charts (http://http://127.0.0.1:5000/).
 
   * Use `otu_ids` for the x values
 
